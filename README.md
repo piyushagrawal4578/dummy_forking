@@ -1,7 +1,3 @@
-# merge-without-conflict
-hii
-bro 
-hello 
+# merge-without-conflict 
 nitish
 YADAV
-
