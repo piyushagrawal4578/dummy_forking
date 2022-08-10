@@ -1,7 +1,8 @@
 # merge-without-conflict
 hii
 hello
-bye
+bro 
+hello 
 nitish
 YADAV
 
